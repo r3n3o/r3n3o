@@ -1,8 +1,8 @@
 - 👋 Hi, I’m René Ortez
 - 👀 I’m interested in learning Kotlin
 - 📫 To reach me in:
-Facebook: 
-Instagram:
+Facebook: https://www.facebook.com/profile.php?id=100074528708224
+Instagram: https://www.instagram.com/ortezr3n3
 
 
 
