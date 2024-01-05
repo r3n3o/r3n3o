@@ -12,5 +12,6 @@ I'm a software developer with a passion for learning and exploring new technolog
 I love connecting with other developers and collaborating on projects. Feel free to reach out to me through any of the following channels:
 - Facebook: https://www.facebook.com/profile.php?id=100074528708224
 - Instagram: https://www.instagram.com/ortezr3n3
+- Telegram: https://t.me/pixelpilotwin
 
 Thanks for stopping by!
